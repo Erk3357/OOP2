@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "arrays-Erk3357_f5607596"
+        }
+    ]
+}
